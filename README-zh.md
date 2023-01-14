@@ -8,7 +8,7 @@
 
 ## 章节
 
-1. [独立于世](chapters/be-independent.md)
+1. [保持独立](chapters/be-independent.md)
 1. [投入](chapters/commit.md)
 1. [充分感知](chapters/fill-your-senses.md)
 1. [无为](chapters/do-nothing.md)
