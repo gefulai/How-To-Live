@@ -1,6 +1,8 @@
 # 如何生活
 
-这是关于 [*How to Live: 27 conflicting answers and one weird conclusion*](https://sive.rs/h) 这本书的个人中文翻译，原作者是 *Derek Sivers*。
+![How-To-Live](assets/image/DerekSivers-cover-HowToLive.jpg "How To Live")
+
+《如何生活》是 [*How To Live: 27 conflicting answers and one weird conclusion*](https://sive.rs/h) 这本书的个人中文译本，原作者是 *Derek Sivers*。
 
 ## 关于作者
 
