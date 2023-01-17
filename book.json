@@ -4,7 +4,13 @@
   "description": "How to Live: 27 conflicting answers and one weird conclusion",
   "language": "zh-hans",
   "gitbook": "3.2.3",
-  "structure": {
-    "readme": "README.md"
-  }
+  "plugins": [
+    "-lunr",
+    "-sharing",
+    "-search",
+    "-favicon",
+    "search-pro",
+    "back-to-top-button",
+    "theme-vuejs"
+  ]
 }
