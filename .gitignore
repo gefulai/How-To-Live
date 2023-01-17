@@ -1,2 +1,16 @@
 _book/
+*.epub
+*.mobi
+*.pdf
+
 node_modules/
+package-lock.json
+
+*.tgz
+*.log
+
+.grunt
+.npm
+.eslintcache
+.env
+.env.test
